@@ -7,6 +7,7 @@ After several years working as an architect, I transitioned into data science to
 Outside of work, I’m usually climbing (indoors or out), biking through new neighborhoods, or digging into the local history of the places I visit.
 
 A few fun facts:
+
 -I'm a big fan of mate, it keeps me fueled and focused.
 
 -Climbing isn't just a hobby, it's a full-on obsession.
