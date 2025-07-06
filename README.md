@@ -8,4 +8,5 @@ Outside of work, I’m usually climbing (indoors or out), biking through new nei
 
 A few fun facts:
 -I'm a big fan of mate, it keeps me fueled and focused.
+
 -Climbing isn't just a hobby, it's a full-on obsession.
