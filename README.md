@@ -10,5 +10,5 @@ Outside of code, you'll find me climbing (indoor or outdoor), biking around new 
 ---
 
 ### Fun Facts:
-- I drink **mate** every day.  
-- **Climbing** is my addiction.
+- I drink mate every day.  
+- Climbing is my addiction.
