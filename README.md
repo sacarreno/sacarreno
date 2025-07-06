@@ -1,4 +1,3 @@
-# simoncarreno
 # Hi there! 👋
 
 I'm **Simon**, a data scientist based in Europe.
