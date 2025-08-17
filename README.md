@@ -2,12 +2,6 @@
 
 I'm Simon, a data scientist based in Europe with a background in architecture.
 
-After several years working as an architect, I transitioned into data science to better understand how our world is built—and how we can build it more sustainably. I'm passionate about using data to support smarter, more responsible decisions in the built environment.
+After several years as an architect, I transitioned into data science to understand how our world is built—and how data can help us build it more sustainably. I work with Python, machine learning, and data visualization to solve real-world problems in the built environment and beyond.
 
-Outside of work, I’m usually climbing (indoors or out), biking through new neighborhoods, or digging into the local history of the places I visit.
-
-A few fun facts:
-
--I'm a big fan of mate.
-
--Climbing isn't just a hobby, it's a full-on obsession.
+Outside of work, I enjoy climbing, biking through new neighborhoods, and exploring the local history of the places I visit.
